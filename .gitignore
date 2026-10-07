@@ -1,0 +1,21 @@
+# ======= macOS System Files =======
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon files for folders
+Icon\r
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk/shares
+.Spotlight-V100
+.Trashes
+
+# Directories potential created on remote AFP shares
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
